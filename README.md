@@ -38,12 +38,12 @@ The goal of this project is to use NLP and other machine learning algorithms to 
 - metadata.csv: a corpus of published research articles and corresponding metadata on findings about the corona virus. Paper abstracts are found directly in the file whereas the full text for the papers can be acquired using the links provided within.
 - .json files containing the full texts for papers in the above dataset can be downloaded from here: https://bit.ly/3fzhlhD
 
-</br> </br>  
+</br> 
  
  
 ## Requirement
 numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
-</br> </br> 
+</br> 
  
  
 ## Technical-Approach
@@ -52,16 +52,12 @@ numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
 - Remove duplicate papers  
 - Extracting useful fields (authors, abstracts, date of publication ...)
 - Prepares the data for analysis (remove stop words, lematization ...)
-</br> </br> 
+</br>  
 
 #### 2. Data Visualization and Exploratory Data Analysis 
-</br> </br> 
-
 
 #### 3. Model selection and fitting to data  
-</br> </br>
-
-
+ 
 #### 4. Deriving insights   
 - Policy and action to tackle the outbreak  
 </br> </br>
