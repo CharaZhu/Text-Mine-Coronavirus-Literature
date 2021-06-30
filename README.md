@@ -1,23 +1,17 @@
 # Text Mine COVID Literature
 
-Text-mine COVID-19 biomedical literature
+ 
+   
+ 
+##### Apply NLP and ML algorithm on the database of research articles to gain insight about COVID-19 and how to improve vaccination efforts.
 
-COVID-19 pandemic open sourced research papers
-use NLP and other machine learning algorithms
- # Text-mine COVID-19 biomedical literature
-
-
-##### use NLP and ML algorithm on the database of research articles to gain useful insight about COVID-19 and how to improve vaccination efforts.
+ COVID-19 pandemic open sourced research papers
 
 
+task of learning from a large corpus of biomedical research text. 
 
 
-1. Implement functionality to parse natural language biomedical literature data according to given constraints and requirements. 
-2. Train and test machine learning algorithms (especially unsupervised machine learning algorithms such as clustering, dimensionality reduction, recommender systems, association rules, etc.) in order to gain insights or answer the overarching question you have chosen to pursue for this project. 
-3. 3. Understand how to apply machine learning algorithms to the task of learning from a large corpus of biomedical research text. 
-4. 4. Improve on skills and competencies required to collate and present domain specific, evidence-based insights. Particularly, in this case to gain insights and guide the fight against the COVID-19 pandemic.
-
-
+gain insights and guide the fight against the COVID-19 pandemic.
 
 </br>
 
@@ -56,23 +50,33 @@ numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
 ## Technical-Approach
 
 #### 1. Data Cleaning 
-
-cleans the data by removing duplicate papers, making the text contents easier to mine by adjusting formatting, and extracting useful fields from the larger dataset such as authors, abstracts, date of publication and more.  
-
-
+- Remove duplicate papers  
+- Extracting useful fields (authors, abstracts, date of publication ...)
+- Prepares the data for analysis (remove stop words, lematization ...)
 </br> </br> 
 
 #### 2. Data Visualization and Exploratory Data Analysis
-Depending on your overarching theme and questions that you wish to address about COVID-19 present 3 graphical figures that visualize aspects or information in the data that you will further explore with your models. How could these trends be used to help with the task of methodically extracting all information and trends of this type? Consider how accessing the data and creating these visualizations will inform how the data will need to be pre-processed and fed into your models. All graphs should be readable and presented in the notebook. All axes must be appropriately labeled. In addition to data visualizations, perform exploratory data analysis in other forms, if necessary.
+
+visualize aspects or information in the data that you will further explore with your models. 
+
+How could these trends be used to help with the task of methodically extracting all information and trends of this type?
+Consider how accessing the data and creating these visualizations will inform how the data will need to be pre-processed and fed into your models. All graphs should be readable and presented in the notebook. All axes must be appropriately labeled. In addition to data visualizations, perform exploratory data analysis in other forms, if necessary.
 </br> </br> 
 
+
+
 #### 3. Model selection and fitting to data 
-Select a machine learning model of your choice (you may select an unsupervised or supervised machine learning model depending on your approach) that will allow you to study some aspect of COVID-19 from the corpus of research articles. You must justify your algorithm choices and the approach you will use to fit your model using the dataset provided. You may also choose to study multiple models and report on the suitability of each in addressing your overarching question regarding COVID-19. You should also use the dataset provided to train the models selected and discuss and interpret the findings of these models. You may also use this section to improve the model depending on the findings of your models and how you interpret them.
+Select a machine learning model of your choice (you may select an unsupervised or supervised machine learning model depending on your approach) that will allow you to study some aspect of COVID-19 from the corpus of research articles. 
+
+You must justify your algorithm choices and the approach you will use to fit your model using the dataset provided. You may also choose to study multiple models and report on the suitability of each in addressing your overarching question regarding COVID-19. 
+
+You should also use the dataset provided to train the models selected and discuss and interpret the findings of these models.
+You may also use this section to improve the model depending on the findings of your models and how you interpret them.
 </br> </br>
 
 
-#### 4. Deriving insights about policy and guidance to tackle the outbreak based on model findings 
-Using the findings from your NLP model and text mining 400,000 unique biomedical research papers on the coronavirus you are now tasked with discussing and proposing how scientists, doctors, nurses, healthcare professionals, industry and governments can best use the insights from your data science model to assist in the fight against the COVID-19 pandemic. Use the insights derived about the disease from your model and your data analysis to justify proposed policies or action items.
+#### 4. Deriving insights   
+- Policy and action to tackle the outbreak  
 </br> </br>
  
  
