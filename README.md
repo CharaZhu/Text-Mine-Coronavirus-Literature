@@ -1,7 +1,6 @@
 # Text Mine COVID-19 Literature
 
-##### Apply NLP and ML algorithm on over 400,000 biomedical research papers to gain insight about COVID-19 and how to improve vaccination efforts.
-
+##### Apply NLP and ML algorithms on over 400,000 biomedical research papers to gain insight into COVID-19 and how to improve vaccination efforts.
 </br>
 
 
