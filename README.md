@@ -1,8 +1,11 @@
-# Text-mine COVID-19 biomedical literature
+# Text Mine COVID Literature
+
+Text-mine COVID-19 biomedical literature
 
 COVID-19 pandemic open sourced research papers
 use NLP and other machine learning algorithms
- 
+ # Text-mine COVID-19 biomedical literature
+
 
 ##### use NLP and ML algorithm on the database of research articles to gain useful insight about COVID-19 and how to improve vaccination efforts.
 
