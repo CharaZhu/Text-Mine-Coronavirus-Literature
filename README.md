@@ -1,17 +1,6 @@
-# Text Mine COVID Literature
+# Text Mine COVID-19 Literature
 
- 
-   
- 
-##### Apply NLP and ML algorithm on the database of research articles to gain insight about COVID-19 and how to improve vaccination efforts.
-
- COVID-19 pandemic open sourced research papers
-
-
-task of learning from a large corpus of biomedical research text. 
- study some aspect of COVID-19 from the corpus of research articles. 
-
-gain insights and guide the fight against the COVID-19 pandemic.
+##### Apply NLP and ML algorithm on over 400,000 biomedical research papers to gain insight about COVID-19 and how to improve vaccination efforts.
 
 </br>
 
@@ -30,19 +19,22 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 
 The goal of this project is to use NLP and other machine learning algorithms to develop a tool that can text-mine this database of research articles to gain useful insights about COVID-19 and how we might be able to tackle the outbreak, contain the spread, flatten the curve and improve vaccination efforts. The overarching insights that can be acquired from this dataset are numerous and which aspect of the problem you decide to tackle is up to you. For example you may choose to use this dataset to better understand the transmission, incubation and symptoms of COVID-19, look to gain insights around which therapeutics and vaccines may hold promise and warrant further investigation, or you may wish to investigate the risk factors that make COVID-19 particularly deadly in some patients. The underlying goal of this project is to gain insights from this dataset to better inform how our healthcare system, governments, industries can tackle this growing problem.
 
-</br> </br> 
+</br>  
 
 
 ## Dataset
 
 - metadata.csv: a corpus of published research articles and corresponding metadata on findings about the corona virus. Paper abstracts are found directly in the file whereas the full text for the papers can be acquired using the links provided within.
+
 - .json files containing the full texts for papers in the above dataset can be downloaded from here: https://bit.ly/3fzhlhD
 
-</br></br>  
+</br>   
  
  
 ## Requirement
 numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
+</br> </br>
+ 
  
  
 ## Technical-Approach
@@ -51,7 +43,6 @@ numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
 - Remove duplicate papers  
 - Extracting useful fields (authors, abstracts, date of publication ...)
 - Prepares the data for analysis (remove stop words, lematization ...)
-</br>  
 
 #### 2. Data Visualization and Exploratory Data Analysis 
 
@@ -63,9 +54,8 @@ numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
  
  
 ## Limitations and Future Improvements
-...
 
-* Add more explanations (Requirement, algorithm) 
+* Add more explanations (Requirement) 
  
 
  
