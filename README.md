@@ -9,7 +9,7 @@
 
 
 task of learning from a large corpus of biomedical research text. 
-
+ study some aspect of COVID-19 from the corpus of research articles. 
 
 gain insights and guide the fight against the COVID-19 pandemic.
 
@@ -22,7 +22,6 @@ gain insights and guide the fight against the COVID-19 pandemic.
 - [Requirement](#requirement)
 - [Technical Approach](#Technical-Approach)
 - [Limitations and Future Improvements](#Limitations-and-Future-Improvements)
-- [Reference](#Reference)  
 <br/>
 
  
@@ -55,23 +54,11 @@ numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK
 - Prepares the data for analysis (remove stop words, lematization ...)
 </br> </br> 
 
-#### 2. Data Visualization and Exploratory Data Analysis
-
-visualize aspects or information in the data that you will further explore with your models. 
-
-How could these trends be used to help with the task of methodically extracting all information and trends of this type?
-Consider how accessing the data and creating these visualizations will inform how the data will need to be pre-processed and fed into your models. All graphs should be readable and presented in the notebook. All axes must be appropriately labeled. In addition to data visualizations, perform exploratory data analysis in other forms, if necessary.
+#### 2. Data Visualization and Exploratory Data Analysis 
 </br> </br> 
 
 
-
-#### 3. Model selection and fitting to data 
-Select a machine learning model of your choice (you may select an unsupervised or supervised machine learning model depending on your approach) that will allow you to study some aspect of COVID-19 from the corpus of research articles. 
-
-You must justify your algorithm choices and the approach you will use to fit your model using the dataset provided. You may also choose to study multiple models and report on the suitability of each in addressing your overarching question regarding COVID-19. 
-
-You should also use the dataset provided to train the models selected and discuss and interpret the findings of these models.
-You may also use this section to improve the model depending on the findings of your models and how you interpret them.
+#### 3. Model selection and fitting to data  
 </br> </br>
 
 
